@@ -4,17 +4,26 @@ layout: archive
 
 {{ content }}
 
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
-
-{% if paginator %}
-  {% assign posts = paginator.posts %}
-{% else %}
-  {% assign posts = site.posts %}
-{% endif %}
-
-{% assign entries_layout = page.entries_layout | default: 'list' %}
-<div class="entries-{{ entries_layout }}">
-  {% include documents-collection.html entries=posts type=entries_layout %}
+<div class="hero">
+  <h1 class="hero-title">Akash Sudhanshu</h1>
+  <div class="hero-subtitle">
+    <p>Mathematics Master's student, Indian Institute of Science (IISc), Bangalore</p>
+    <p>Hi there! I’m Akash, a Master's candidate majoring in Mathematics at IISc, Bangalore, working in low-dimensional topology and geometry. I am being advised by <a href="https://math.iisc.ac.in/~sgupta/" class="subhojoy-link">Prof. Subhojoy Gupta</a>.</p>
+    <p>My research interest lies in Teichmüller spaces, their metric structures, and Riemann surfaces. I've worked on the Bounded Distortion Conjecture proposed by R.C. Penner, quasiconformal maps, and the Weil-Petersson metric. I am currently learning about various aspects of Teichmüller theory and computational methods in quasiconformal geometry.</p>
+  </div>
+  <div class="education-block">
+    <p>🎓 <strong>BSc. (Research), Major in Mathematics</strong><br>
+       Indian Institute of Science, Bangalore</p>
+  </div>
 </div>
 
-{% include paginator.html %}
+<!-- Social Icons Section -->
+<div style="margin-top: 20px; font-size: 1.5em;">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank" aria-label="LinkedIn"><i class="fab fa-linkedin"></i></a>&nbsp;&nbsp;
+  <a href="https://github.com/akashsudhanshu" target="_blank" aria-label="GitHub"><i class="fab fa-github"></i></a>&nbsp;&nbsp;
+  <a href="mailto:akashsudhanshu.math@gmail.com" target="_blank" aria-label="Email"><i class="fas fa-envelope"></i></a>&nbsp;&nbsp;
+  <a href="https://instagram.com/YOUR_INSTAGRAM" target="_blank" aria-label="Instagram"><i class="fab fa-instagram"></i></a>
+</div>
+
+<!-- FontAwesome Icon Kit -->
+<script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
