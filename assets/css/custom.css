@@ -1,10 +1,3 @@
-/* Make avatar rectangular and larger */
-.sidebar .author__avatar img {
-  border-radius: 0;        /* removes the circle (was 50%) */
-  width: 400px !important;            /* increase size (default ~100px) */
-  height: auto !important;            /* maintain aspect ratio */
-  box-shadow: none;        /* optional: remove shadow */
-}
 
 h1.site-title {
   font-weight: 500;
@@ -16,6 +9,9 @@ h1.site-title {
 
 body {
   font-family: 'Work Sans', sans-serif;
+}
+.page__body {
+ font-family: 'Work Sans', sans-serif;
 }
 .page__title {
   font-family: 'Work Sans', sans-serif;
