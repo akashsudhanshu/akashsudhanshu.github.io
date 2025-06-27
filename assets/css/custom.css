@@ -10,22 +10,25 @@ h1.site-title {
 body {
   font-family: 'Work Sans', sans-serif;
 }
-.author__avatar {
-  max-width: none !important;
-  width: auto !important;
-  display: flex;
-  justify-content: center; /* center the image */
+/* 1) Bump up the sidebar & avatar container width */
+:root {
+  --sidebar-width: 400px !important;
 }
-.author__avatar img {
-  width: 300px !important;   /* or any size you prefer */
+
+/* 2) Ensure the avatar itself uses the full container */
+.author__avatar,
+.sidebar__author {
+  width: var(--sidebar-width) !important;
+}
+
+/* 3) And make sure the <img> fills that space */
+.author__avatar img,
+.sidebar__author img {
+  width: 100% !important;
   height: auto !important;
   border-radius: 0 !important;
   box-shadow: none !important;
 }
-.sidebar {
-  max-width: 100% !important;
-}
-
 
 
 
