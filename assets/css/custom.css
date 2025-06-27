@@ -30,6 +30,18 @@ body {
   box-shadow: none !important;
 }
 
+/* Force the avatar image to be 230px wide */
+.author__avatar img {
+  width: 230px !important;
+  height: auto !important;
+}
+
+/* Relax the container so it doesn’t constrain the image */
+.author__avatar,
+.sidebar__author {
+  width: auto !important;
+  max-width: none !important;
+}
 
 
 .page__body {
