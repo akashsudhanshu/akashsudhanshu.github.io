@@ -10,15 +10,27 @@ h1.site-title {
 body {
   font-family: 'Work Sans', sans-serif;
 }
+.author__avatar {
+  max-width: none !important;
+  width: auto !important;
+  display: flex;
+  justify-content: center; /* center the image */
+}
+.author__avatar img {
+  width: 300px !important;   /* or any size you prefer */
+  height: auto !important;
+  border-radius: 0 !important;
+  box-shadow: none !important;
+}
+.sidebar {
+  max-width: 100% !important;
+}
+
+
+
+
 .page__body {
  font-family: 'Work Sans', sans-serif;
-}
-/* Override oval shape globally */
-.author__avatar img {
-  border-radius: 0 !important;
-  width: 230px !important;
-  height: auto !important;
-  box-shadow: none !important;
 }
 
 .page__title {
