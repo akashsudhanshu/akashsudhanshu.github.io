@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
  # name             : "Akash Sudhanshu"
-  avatar           : "/assets/Akash.jpeg"
+ # avatar           : "/assets/Akash.jpeg"
  # bio              : "BS- MS student of mathematics in Indian Institute of Science(IISc), Bangalore"
 #  email            :
   links:
