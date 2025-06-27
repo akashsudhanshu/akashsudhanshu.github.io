@@ -2,7 +2,7 @@
 title: "Research"
 permalink: /research/
 layout: single
-author_profile: true
+author_profile: false
 ---
 
 I am interested in Teichmüller theory, Riemann Surfaces and complex geometry.
