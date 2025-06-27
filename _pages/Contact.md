@@ -5,17 +5,15 @@ layout: single
 author_profile: true
 ---
 
-If you are a prospective collaborator, faculty, or student interested in my work, feel free to reach out! You can reach me at:
+If you are a faculty, or student interested in my work, feel free to reach out! You can reach me at:
 
-📧 **Email**  
-[akashsudhanshu.math@gmail.com](mailto:akashsudhanshu.math@gmail.com)
+**Email:**  [akashsudhan.iisc.ac.in](mailto:akashsudhanshu.math@gmail.com)
 
-💼 **GitHub**  
-[github.com/akashsudhanshu](https://github.com/akashsudhanshu)
 
-📍 **Institution**  
-Indian Institute of Science, Bangalore  
+**Institution**  
 Department of Mathematics
+Indian Institute of Science, Bangalore  
+
 
 ---
 
