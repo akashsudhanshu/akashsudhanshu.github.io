@@ -22,3 +22,19 @@ body {
   font-size: 2.5em;  /* optional: match home hero-title size */
   margin-bottom: 0.5em;
 }
+.page__footer {
+  padding: 10px 0 !important; /* reduce vertical padding */
+  font-size: 0.8em !important; /* smaller text */
+  background-color: #f8f9fa; /* optional: lighter background */
+}
+
+.page__footer-follow {
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+  padding: 0 !important;
+}
+
+.page__footer-copyright {
+  margin-top: 5px !important;
+}
+
