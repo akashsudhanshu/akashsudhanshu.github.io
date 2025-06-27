@@ -16,3 +16,9 @@ h1.site-title {
 body {
   font-family: 'Work Sans', sans-serif;
 }
+.page__title {
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 300;
+  font-size: 2.5em;  /* optional: match home hero-title size */
+  margin-bottom: 0.5em;
+}
