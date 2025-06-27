@@ -13,6 +13,14 @@ body {
 .page__body {
  font-family: 'Work Sans', sans-serif;
 }
+/* Override oval shape globally */
+.author__avatar img {
+  border-radius: 0 !important;
+  width: 230px !important;
+  height: auto !important;
+  box-shadow: none !important;
+}
+
 .page__title {
   font-family: 'Work Sans', sans-serif;
   font-weight: 300;
