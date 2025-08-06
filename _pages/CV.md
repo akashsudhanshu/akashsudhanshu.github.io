@@ -4,4 +4,4 @@ permalink: /cv/
 layout: single
 ---
 
-You can download my CV [here](/assets/files/Akash_Sudhanshu_CV.pdf).
+You can see my CV from [here](assets/curriculum vitae (3).pdf).
