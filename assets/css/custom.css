@@ -72,4 +72,8 @@ body {
   color: #007bff;
 }
 
+/* Hide heading anchor (permalink) icons */
+.anchorjs-link {
+  display: none !important;
+}
 
