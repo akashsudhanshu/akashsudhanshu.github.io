@@ -1,7 +1,5 @@
 ---
-title: "CV"
+layout: null
 permalink: /cv/
-layout: single
+redirect_to: /assets/curriculum-vitae.pdf
 ---
-
-You can see my CV from [here](assets/js/Curriculum Vitae.pdf).
