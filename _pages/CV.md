@@ -5,4 +5,4 @@ layout: single
 author_profile: false
 ---
 
-You can download my CV from [here](/assets/Curriculum Vitae.pdf).
+You can download my CV from [here](/assets/cv.pdf).
