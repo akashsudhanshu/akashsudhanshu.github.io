@@ -1,5 +1,8 @@
----
-layout: null
+
+title: "CV"
 permalink: /cv/
-redirect_to: /assets/curriculum-vitae.pdf
+layout: single
+author_profile: false
 ---
+
+You can download my CV from [here](/assets/Curriculum Vitae.pdf).
