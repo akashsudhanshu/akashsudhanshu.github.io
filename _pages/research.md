@@ -11,6 +11,7 @@ I am interested in Teichmüller theory, Riemann Surfaces and complex geometry.
 
 - **Kähler geometry of the Weil–Petersson metric**  
   Mentor: Prof. Sumio Yamada.
+
   Studying to understand the Wolpert's formula for the Weil-Petersson's metric. Current goal is to write an expository article describing the Weil Petersson's metric from metric and symplectic point of view. Currently, reading about Fenchel Nielson deforations. 
 - **Bounded Distortion Conjecture for Once-punctured Torus** 
 Mentor: Prof. Subhojoy Gupta
@@ -20,6 +21,7 @@ Mentor: Prof. Subhojoy Gupta
 
 - **Decorated Teichmüller theory: Towards Bounded Distortion Conjecture**
 Mentor: Prof. Subhojoy Gupta
+
   Wrote a review of the Bounded Distortion Conjecture which was proposed by R.C. Penner. R.C. Penner defined a self-map on the decorated Teichmüller space relating a combinatorial construction and Strebel differentials.
   He asked if the map had a bounded distortion with respect to the  Teichmüller metric.
   
