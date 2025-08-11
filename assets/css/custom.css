@@ -77,3 +77,14 @@ body {
   display: none !important;
 }
 
+
+.page-research .page__content {
+  max-width: 1100px; /* wider than default */
+}
+
+@media (min-width: 1200px) {
+  .page-research .page__content {
+    max-width: 1200px;
+  }
+}
+
