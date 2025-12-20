@@ -1,6 +1,6 @@
 ---
 title: "Projects"
-permalink: /Projects/
+permalink: /research/
 layout: single
 author_profile: false
 ---
