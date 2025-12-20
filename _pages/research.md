@@ -1,31 +1,39 @@
 ---
-title: "Research"
+title: "Projects"
 permalink: /research/
 layout: single
 author_profile: false
 ---
+### Research Interests
+I am interested in Geometry and Topology with particular research interests in Teichmüller Theory,Complex Dynamics  and Complex Geometry.
 
-I am interested in Teichmüller theory, Riemann Surfaces and complex geometry.
-
-### Current Work
+### Ongoing Projects
 - **Bounded Distortion Conjecture for Once-punctured Torus**
-  (Master's Thesis) <br>
+  (Bachelors and Masters Thesis) <br>
   Mentor: Prof. Subhojoy Gupta<br>
-  The Bounded Distortion Conjecture proposed by R.C. Penner for (punctured) oriented surfaces relates a combinatorial method (convex-hull construction) with a complex analytic method (using Jenkins-Strebel differentials) which partitions the Teichmüller space into ideal cells. <br>
-  Currently, we are near completing our calculations to conclude the conjecture for a once-punctured Torus. We are using extremal lengths to lower bound the distortion and *easy-to-compute models* of marked-Riemann surfaces for our calculations. Using branched covers, we can also conclude the conjecture for all once-punctured surfaces, if it turns out to be false for the once-punctured torus.
+  The Bounded Distortion Conjecture proposed by R.C. Penner for (punctured) oriented surfaces concerns the boundedness of the distane of a combinatorial transformation from (decorated) hyperbolic structures to (decorated) singular-flat structures of a surface. <br>
+  We proved the naturality of the transformation with respect to covering maps between punctured surfaces. Thus, if we show that the conjecture is false (i.e. the distortion is unbounded) for once-punctured torus, it implies that the conjecture is false for all punctured surfaces with positve genus. Thus, the analysis is partially reduced to the once-punctured torus. 
+   We constructed the setup for the once-punctured torus using various models of its Teichmüller space and derived the exact expression of the combinatorial transformation in terms of elliptic integrals. Currently, we have found various estimates on the distortion and are computationally analysing the behaviour near the boundary of the Teichmuller space.
   
-- **Two perspectives at the Weil-Petersson metric on the Teichmüller space**  
-  Mentor: Prof. Sumio Yamada<br>
-  I learnt about two *equivalent* ways to define the WP metric using two models of the Teichmüller space: as the space of complex structures and the space of hyperbolic metrics up to isotopy. These two ways are equivalent in the sense that one can go back and forth from one description to another during each step, showing their equivalence. 
-
-### Bachelor's Thesis
-- **Decorated Teichmüller theory: Towards the Bounded Distortion Conjecture**
-  Mentor: Prof. Subhojoy Gupta<br>
-  In my Bachelor's thesis, I presented an overview of this conjecture and described it through an *algorithmic perspective*. The Bounded Distortion Conjecture proposed by R.C. Penner for (punctured) oriented surfaces concerns the distortion during the translation from one model to another model of an ideal-cell decomposition of the Teichmüller space. One decomposition is obtained from a combinatorial construction (convex-hull construction) and the other from a complex analytic method (using Jenkins-Strebel differentials). 
+-**Dynamics of Schwarz Christoffel mapping**
+Mentor: Prof. Subhojoy Gupta <br>
+ Analysing the interations of Schwarz Christoffel mappings from discs to Euclidean rectangles and ideal quadrilaterals.<br>
+ Using basic simulations, we (computationally) showed that the square is an attracting fixed point for the iterative mapping from the disc to Euclidean rectangles.  
   
 ### Previous Projects
+- **Two perspectives at the Weil-Petersson metric on the Teichmüller space**  
+  Mentor: Prof. Sumio Yamada<br>
+  I studied the Weil–Petersson metric from both hyperbolic metrics and complex-analytic models of Teichmüller space, how these two models are interrelated and proofs of the Kählerity in both settings.
+  
 - **Foundations of Complex Geometry**
+  Mentor: Dr. Purvi Gupta<br>
+  I studied about analytic varieties, sheaf cohomology, de Rham and Dolbeault theorems, vector bundles.
+  
 - **Introduction to Algebraic Topology**
+  Mentor: Prof. Siddhartha Gadgil<br>
+  I covered the 1st chapter of Hatcher's book on Algebraic Topology and learnt about simplicial complexes, covering spaces and deck transformations.
+  
 - **Multivariable Calculus and Fourier Analysis**
-   
+   Mentor: Dr. Arka Mallick<br>
+  I covered the 3 chapter of Stein and Shakarchi's book on Fourier Analysis and learnt about wave and heat equations, Fourier series,   kernels and some convergence theorems.
   
