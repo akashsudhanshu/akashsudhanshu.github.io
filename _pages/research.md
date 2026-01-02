@@ -5,15 +5,16 @@ layout: single
 author_profile: false
 ---
 ### Research Interests
-I am interested in Geometry and Topology with particular research interests in Teichmüller Theory,Complex Dynamics  and Complex Geometry.
+I am interested in Geometry and Topology with particular research interests in Teichmüller Theory, Complex Dynamics and Complex Geometry.
 
 ### Ongoing Projects
-- **Bounded Distortion Conjecture for Once-punctured Torus**<br>
+- **Bounded Distortion Conjecture for Punctured Surfaces **<br>
   (Bachelors and Masters Thesis) <br>
   Mentor: Prof. Subhojoy Gupta<br>
-  The Bounded Distortion Conjecture proposed by R.C. Penner for (punctured) oriented surfaces concerns the boundedness of the distane of a combinatorial transformation from (decorated) hyperbolic structures to (decorated) singular-flat structures of a surface. <br>
-  We proved the naturality of the transformation with respect to covering maps between punctured surfaces. Thus, if we show that the conjecture is false (i.e. the distortion is unbounded) for once-punctured torus, it implies that the conjecture is false for all punctured surfaces with positve genus. Thus, the analysis is partially reduced to the once-punctured torus. <br>
-   We constructed the setup for the once-punctured torus using various models of its Teichmüller space and derived the exact expression of the combinatorial transformation in terms of elliptic integrals. Currently, we have found various estimates on the distortion and are computationally analysing the behaviour near the boundary of the Teichmuller space.
+  The Bounded Distortion Conjecture proposed by R.C. Penner for finite punctured surfaces concerns the Teichmuller distortion of a combinatorial transformation from (decorated) hyperbolic structures to (decorated) singular-flat structures of a surface. <br>
+  We proved that the conjecture is false: the Teichmüller distortion is not uniformly bounded on the (decorated) Teichmuller space of any punctured surfaces with positive genus. <br>
+  First, we proved that the distortion is unbounded for a once-punctured torus. Then, proved the naturality of the transformation with respect to unbranched covering maps to extend the result to all punctured surfaces with positive genus. Currently, we are writing a research paper on these results and working on the remaining cases of punctured spheres and bordered
+surfaces to prove the analogous result.
   
 -**Dynamics of Schwarz Christoffel mapping**<br>
 Mentor: Prof. Subhojoy Gupta <br>
